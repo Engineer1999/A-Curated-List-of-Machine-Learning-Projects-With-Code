@@ -1,6 +1,6 @@
 # 500+ Machine Learning Projects with Code
 
-![Machine Learning Projects](female_reading_book.png)
+![Machine Learning Projects](./assets/female_reading_book.png)
 
 ## 📚 Description
 

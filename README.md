@@ -1,12 +1,12 @@
 # 500+ Machine Learning Projects with Code
 
-![Machine Learning Projects](./assets/female_reading_book.png)
-
 ## 📚 Description
 
 Welcome to the **500+ Machine Learning Projects with Code** repository - your comprehensive resource for learning and implementing machine learning algorithms, deep learning models, and AI applications. This curated collection features real-world projects spanning computer vision, natural language processing, time series forecasting, recommendation systems, and more.
 
 Whether you're a **beginner** starting your ML journey, an **intermediate** practitioner looking to expand your skills, or an **advanced** developer seeking cutting-edge implementations, this repository provides hands-on experience with the latest machine learning techniques and frameworks.
+
+![Machine Learning Projects](./assets/female_reading_book.png)
 
 ## ✨ Features
 
